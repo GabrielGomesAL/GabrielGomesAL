@@ -9,7 +9,6 @@
 - 📊 Apaixonado por **Inteligência Artificial, Dados e Computação em Nuvem**.  
 - ☁️ Atualmente estudando e certificando em **AWS IA & ML**.  
 - 🧩 Gosto de transformar ideias em soluções reais através de projetos práticos.  
-- 🎯 Busco um estágio desafiador para crescer profissionalmente e aplicar meus conhecimentos.  
 
 ---
 
