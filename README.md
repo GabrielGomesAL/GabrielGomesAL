@@ -1,16 +1,16 @@
-<h1 align="center">👨‍💻 Gabriel Gomes</h1>
+<h1 align="center">Gabriel Gomes</h1>
 
 <h3 align="center">
-  Cybersecurity • Red Team • Pentest • Offensive Security
+  Cybersecurity | Red Team | Pentest | Offensive Security
 </h3>
 
 <p align="center">
-  <i>Exploring systems, breaking assumptions and building security through offensive knowledge.</i>
+  <i>Breaking assumptions. Understanding systems. Building security through offensive knowledge.</i>
 </p>
 
 <p align="center">
   <a href="https://github.com/GabrielGomesAL">
-    <img src="https://img.shields.io/badge/GitHub-GabrielGomesAL-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-GabrielGomesAL-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/gabriel-gomes-almeida">
     <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Gomes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -22,22 +22,25 @@
 
 ---
 
-## 🧠 Sobre mim
+## 👨‍💻 Sobre mim
 
 Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente estou direcionando minha carreira para **Cybersecurity**, com foco em **Red Team, Pentest, Segurança Ofensiva e exploração em ambientes controlados**.
 
-Tenho interesse em entender como sistemas, redes, aplicações e infraestruturas podem ser comprometidos — e como esse conhecimento pode ser usado para fortalecer a segurança de ambientes reais.
+Meu objetivo é entender sistemas em profundidade: como eles funcionam, onde falham, como podem ser explorados e, principalmente, como podem ser protegidos.
 
-Atualmente estudo e pratico:
+Tenho interesse especial por:
 
-* 🔴 **Red Team Operations**
-* 🕸️ **Web Application Security**
-* 🖥️ **Linux & Windows Privilege Escalation**
-* 🌐 **Network Pentest**
-* 🧬 **Active Directory Security**
-* 🧪 **Exploração em laboratórios como Hack The Box e ambientes controlados**
-* ⚙️ **Automação de enumeração e análise com Python/Bash**
-* 📚 **Documentação técnica, writeups e metodologia de ataque**
+- Red Team Operations
+- Web Application Security
+- Network Pentest
+- Linux Privilege Escalation
+- Windows Privilege Escalation
+- Active Directory Security
+- Exploração de vulnerabilidades
+- Automação para segurança ofensiva
+- Relatórios técnicos de segurança
+
+> Todo conteúdo deste perfil é voltado para aprendizado, pesquisa e prática em ambientes autorizados.
 
 ---
 
@@ -49,14 +52,15 @@ Cybersecurity Roadmap
 │   ├── Redes TCP/IP
 │   ├── Linux
 │   ├── Windows
-│   └── Protocolos e serviços
+│   ├── Serviços de rede
+│   └── Protocolos
 │
-├── Offensive Security
-│   ├── Reconnaissance
-│   ├── Enumeration
-│   ├── Exploitation
-│   ├── Privilege Escalation
-│   └── Post-Exploitation
+├── Pentest
+│   ├── Reconhecimento
+│   ├── Enumeração
+│   ├── Exploração
+│   ├── Escalação de privilégios
+│   └── Pós-exploração
 │
 ├── Web Security
 │   ├── OWASP Top 10
@@ -64,19 +68,26 @@ Cybersecurity Roadmap
 │   ├── SQL Injection
 │   ├── XSS
 │   ├── IDOR
+│   ├── File Upload
 │   └── Authentication Bypass
 │
-└── Red Team
-    ├── Active Directory
-    ├── Lateral Movement
-    ├── Persistence Concepts
-    ├── Evasion Concepts
-    └── Reporting
+├── Red Team
+│   ├── Active Directory
+│   ├── Movimento lateral
+│   ├── Persistência em ambientes controlados
+│   ├── Evasão em contexto de laboratório
+│   └── Relatórios técnicos
+│
+└── Automação
+    ├── Python
+    ├── Bash
+    ├── PowerShell
+    └── Scripts para enumeração e análise
 ```
 
 ---
 
-## 🛠️ Arsenal técnico
+## 🛠️ Tecnologias e ferramentas
 
 <p align="center">
 
@@ -85,7 +96,9 @@ Cybersecurity Roadmap
   <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/Active%20Directory-003366?style=for-the-badge&logo=windows&logoColor=white"/>
 
-  <br/>
+</p>
+
+<p align="center">
 
   <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
@@ -93,14 +106,18 @@ Cybersecurity Roadmap
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
 
-  <br/>
+</p>
+
+<p align="center">
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-  <br/>
+</p>
+
+<p align="center">
 
   <img src="https://img.shields.io/badge/Git-EE513B?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -110,108 +127,138 @@ Cybersecurity Roadmap
 
 ---
 
-## 🧪 Labs & prática
+## 🧪 Labs e prática
 
 <p align="center">
   <img src="https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
   <img src="https://img.shields.io/badge/PortSwigger%20Academy-FF6633?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CTF-Red%20Team-critical?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CTF-Offensive%20Security-critical?style=for-the-badge"/>
 </p>
 
-Gosto de aprender segurança ofensiva na prática, documentando processos de enumeração, exploração e pós-exploração em ambientes legais e controlados.
-
-> Nenhum conhecimento ofensivo deve ser usado fora de ambientes autorizados.
+Pratico segurança ofensiva em laboratórios, CTFs e ambientes controlados, com foco em desenvolver metodologia, raciocínio técnico e documentação.
 
 ---
 
-## 🚀 Projetos em destaque
+## 🔴 Offensive Security Mindset
+
+```txt
+1. Entender o alvo
+2. Mapear a superfície de ataque
+3. Enumerar com precisão
+4. Identificar falhas reais
+5. Explorar de forma controlada
+6. Escalar privilégios
+7. Coletar evidências
+8. Documentar o impacto
+9. Recomendar correções
+```
+
+---
+
+## 🚀 Repositórios em destaque
 
 ### 🔴 Offensive Security Labs
 
-Repositório com anotações, comandos, metodologia e writeups de laboratórios voltados para Red Team e Pentest.
+Anotações, comandos, metodologia e writeups de laboratórios voltados para segurança ofensiva, pentest e Red Team.
 
-**Tópicos:**
+**Tópicos:**  
 `recon` • `enumeration` • `exploitation` • `privilege-escalation` • `post-exploitation` • `reporting`
 
 ---
 
 ### 🕸️ Web Pentest Notes
 
-Estudos e práticas baseadas em vulnerabilidades web, com foco em OWASP Top 10 e exploração manual com Burp Suite.
+Estudos e práticas sobre vulnerabilidades web, com foco em exploração manual e análise de falhas comuns em aplicações.
 
-**Tópicos:**
-`sql-injection` • `xss` • `idor` • `authentication-bypass` • `file-upload` • `ssrf`
+**Tópicos:**  
+`owasp-top-10` • `burp-suite` • `sql-injection` • `xss` • `idor` • `file-upload` • `authentication-bypass`
 
 ---
 
 ### ⚙️ Recon Automation Toolkit
 
-Scripts em Python e Bash para automatizar etapas de reconhecimento, enumeração e organização de resultados em pentests controlados.
+Scripts para automatizar etapas de reconhecimento, enumeração e organização de resultados em pentests autorizados.
 
-**Tópicos:**
-`python` • `bash` • `nmap` • `subdomain-enumeration` • `automation`
+**Tópicos:**  
+`python` • `bash` • `nmap` • `recon` • `automation` • `pentest`
 
 ---
 
 ### 🖥️ Privilege Escalation Cheatsheets
 
-Anotações e checklists para escalação de privilégios em Linux e Windows.
+Checklists e anotações para estudo de escalação de privilégios em Linux e Windows.
 
-**Tópicos:**
-`linux-privesc` • `windows-privesc` • `misconfigurations` • `services` • `permissions`
+**Tópicos:**  
+`linux-privesc` • `windows-privesc` • `misconfigurations` • `permissions` • `services`
 
 ---
 
-## 📌 Metodologia que estou construindo
+## 📚 Áreas de estudo
 
 ```txt
-1. Reconhecimento
-2. Enumeração
-3. Identificação de superfície de ataque
-4. Exploração controlada
-5. Escalação de privilégios
-6. Pós-exploração
-7. Coleta de evidências
-8. Relatório técnico
-9. Recomendações de mitigação
+Security Studies
+├── Red Team
+├── Pentest Web
+├── Segurança em Redes
+├── Active Directory
+├── Linux Internals
+├── Windows Security
+├── Cloud Security
+├── Exploit Development Basics
+├── Secure Coding
+└── Technical Reporting
 ```
 
 ---
 
-## 📊 GitHub Stats
+## 🧾 Documentação e metodologia
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielGomesAL&show_icons=true&theme=radical&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGomesAL&layout=compact&theme=radical&hide_border=true" height="180"/>
-</p>
+Além da parte prática, também foco em construir documentação técnica clara, organizada e útil.
 
----
+Meus estudos seguem uma estrutura baseada em:
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GabrielGomesAL&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
-</p>
-
----
-
-## 📚 Áreas de interesse
-
-* Red Team
-* Pentest Web
-* Segurança em Redes
-* Active Directory Security
-* Linux Internals
-* Windows Security
-* Exploração de vulnerabilidades
-* Automação para segurança ofensiva
-* Relatórios técnicos de segurança
-* Cloud Security
+- Objetivo do teste
+- Escopo do ambiente
+- Reconhecimento
+- Enumeração
+- Evidências encontradas
+- Exploração controlada
+- Impacto técnico
+- Mitigação recomendada
+- Lições aprendidas
 
 ---
 
-## 📬 Contato
+## 📌 GitHub Focus
+
+```txt
+GitHub Portfolio
+├── Labs e Writeups
+│   ├── Hack The Box
+│   ├── TryHackMe
+│   └── PortSwigger Academy
+│
+├── Segurança ofensiva
+│   ├── Reconhecimento
+│   ├── Enumeração
+│   ├── Exploração
+│   └── Privilege Escalation
+│
+├── Automação
+│   ├── Python
+│   ├── Bash
+│   └── PowerShell
+│
+└── Documentação
+    ├── Cheatsheets
+    ├── Metodologias
+    └── Relatórios técnicos
+```
+
+---
+
+## 📫 Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-gomes-almeida">
@@ -228,5 +275,5 @@ Anotações e checklists para escalação de privilégios em Linux e Windows.
 ---
 
 <p align="center">
-  <b>Cybersecurity is not about breaking systems. It's about understanding them deeply enough to protect them better.</b>
+  <b>Security is not about breaking systems. It is about understanding them deeply enough to protect them better.</b>
 </p>
