@@ -1,279 +1,132 @@
-<h1 align="center">Gabriel Gomes</h1>
+<h1 align="center">Gabriel Gomes Almeida</h1>
 
-<h3 align="center">
-  Cybersecurity | Red Team | Pentest | Offensive Security
-</h3>
+<h3 align="center">Security Researcher • Application Security • Offensive Security</h3>
 
 <p align="center">
-  <i>Breaking assumptions. Understanding systems. Building security through offensive knowledge.</i>
+  <i>Breaking assumptions. Finding root causes. Turning vulnerabilities into better security.</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CVEs%20publicadas-2-2ea44f?style=flat-square" alt="2 CVEs publicadas"/>
+  <img src="https://img.shields.io/badge/Responsible%20Disclosure-Verified-0A66C2?style=flat-square" alt="Responsible Disclosure"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Security%20Research-8A2BE2?style=flat-square" alt="Open Source Security Research"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/GabrielGomesAL">
-    <img src="https://img.shields.io/badge/GitHub-GabrielGomesAL-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-GabrielGomesAL-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/gabriel-gomes-almeida">
-    <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Gomes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Gomes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:ggoalmeidaa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
-Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente estou direcionando minha carreira para **Cybersecurity**, com foco em **Red Team, Pentest, Segurança Ofensiva e exploração em ambientes controlados**.
+Sou formado em **Análise e Desenvolvimento de Sistemas** e direciono minha carreira para **Cybersecurity**, com foco em pesquisa de vulnerabilidades, segurança de aplicações e segurança ofensiva.
 
-Meu objetivo é entender sistemas em profundidade: como eles funcionam, onde falham, como podem ser explorados e, principalmente, como podem ser protegidos.
+Minha abordagem combina **revisão de código**, compreensão de regras de negócio, reprodução controlada, construção de provas de conceito e documentação técnica. Tenho interesse especial em falhas de **autenticação**, **autorização**, **APIs** e validação de dados.
 
-Tenho interesse especial por:
+Meu trabalho em pesquisa responsável de segurança já resultou em **duas CVEs publicadas**, ambas com crédito oficial como *Reporter*.
 
-- Red Team Operations
-- Web Application Security
-- Network Pentest
-- Linux Privilege Escalation
-- Windows Privilege Escalation
-- Active Directory Security
-- Exploração de vulnerabilidades
-- Automação para segurança ofensiva
-- Relatórios técnicos de segurança
-
-> Todo conteúdo deste perfil é voltado para aprendizado, pesquisa e prática em ambientes autorizados.
+> Toda pesquisa e validação apresentada neste perfil é realizada em projetos open source, laboratórios próprios ou ambientes explicitamente autorizados.
 
 ---
 
-## 🎯 Foco atual
+## Security Research & CVEs
 
-```txt
-Cybersecurity Roadmap
-├── Fundamentos
-│   ├── Redes TCP/IP
-│   ├── Linux
-│   ├── Windows
-│   ├── Serviços de rede
-│   └── Protocolos
-│
-├── Pentest
-│   ├── Reconhecimento
-│   ├── Enumeração
-│   ├── Exploração
-│   ├── Escalação de privilégios
-│   └── Pós-exploração
-│
-├── Web Security
-│   ├── OWASP Top 10
-│   ├── Burp Suite
-│   ├── SQL Injection
-│   ├── XSS
-│   ├── IDOR
-│   ├── File Upload
-│   └── Authentication Bypass
-│
-├── Red Team
-│   ├── Active Directory
-│   ├── Movimento lateral
-│   ├── Persistência em ambientes controlados
-│   ├── Evasão em contexto de laboratório
-│   └── Relatórios técnicos
-│
-└── Automação
-    ├── Python
-    ├── Bash
-    ├── PowerShell
-    └── Scripts para enumeração e análise
+| CVE | Projeto | Descoberta | Severidade | Registro oficial |
+|---|---|---|---|---|
+| **[CVE-2026-72917](https://nvd.nist.gov/vuln/detail/CVE-2026-72917)** | [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) | Bypass do requisito de dois códigos na recuperação de conta após normalização de entrada | **Moderate — 5.9** | [GHSA-vv8w-wg6r-hq56](https://github.com/Mintplex-Labs/anything-llm/security/advisories/GHSA-vv8w-wg6r-hq56) |
+| **[CVE-2026-70483](https://nvd.nist.gov/vuln/detail/CVE-2026-70483)** | [Open WebUI](https://github.com/open-webui/open-webui) | Falta de autorização permitia interromper a geração ativa de outro usuário | **Low — 3.1** | [GHSA-3vf6-64vr-3g56](https://github.com/open-webui/open-webui/security/advisories/GHSA-3vf6-64vr-3g56) |
+
+Nos dois advisories, o crédito público aparece como **[GabrielGomesAL — Reporter](https://github.com/GabrielGomesAL)**.
+
+---
+
+## Competências em desenvolvimento
+
+| Área | Foco |
+|---|---|
+| **Application Security** | Revisão de código, autenticação, autorização, APIs e OWASP Top 10 |
+| **Security Research** | Análise de causa raiz, PoCs locais, avaliação de impacto e coordinated disclosure |
+| **Offensive Security** | Reconhecimento, enumeração, exploração controlada e privilege escalation |
+| **Sistemas e redes** | Linux, Windows, TCP/IP e fundamentos de Active Directory |
+| **Automação** | Python, Bash e PowerShell para coleta, validação e organização de evidências |
+| **Documentação** | Relatórios reproduzíveis, evidências técnicas e recomendações de correção |
+
+---
+
+## Ferramentas e tecnologias
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows"/>
+  <img src="https://img.shields.io/badge/Nmap-004170?style=flat-square" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Git-EE513B?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+</p>
+
+---
+
+## Metodologia de pesquisa
+
+```text
+Escopo autorizado
+      ↓
+Mapeamento da superfície e revisão de código
+      ↓
+Hipótese de segurança e reprodução local
+      ↓
+PoC mínima, controles negativos e causa raiz
+      ↓
+Impacto, versões afetadas e recomendação de correção
+      ↓
+Coordinated disclosure e acompanhamento da remediação
 ```
 
----
-
-## 🛠️ Tecnologias e ferramentas
-
-<p align="center">
-
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Active%20Directory-003366?style=for-the-badge&logo=windows&logoColor=white"/>
-
-</p>
-
-<p align="center">
-
-  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
-
-</p>
-
-<p align="center">
-
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-</p>
-
-<p align="center">
-
-  <img src="https://img.shields.io/badge/Git-EE513B?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-</p>
+Procuro produzir relatórios que permitam ao mantenedor **reproduzir o comportamento**, **entender a causa raiz** e **corrigir a falha com segurança**.
 
 ---
 
-## 🧪 Labs e prática
+## Aprendizado contínuo
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PortSwigger%20Academy-FF6633?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CTF-Offensive%20Security-critical?style=for-the-badge"/>
-</p>
+Atualmente aprofundo conhecimentos por meio de:
 
-Pratico segurança ofensiva em laboratórios, CTFs e ambientes controlados, com foco em desenvolver metodologia, raciocínio técnico e documentação.
+- **Hack The Box** — redes, Linux, Windows, shells, payloads e privilege escalation
+- **PortSwigger Web Security Academy** — segurança de aplicações web
+- **Laboratórios locais** — análise de código e reprodução segura de vulnerabilidades
+- **Projetos open source** — pesquisa responsável e colaboração com mantenedores
 
 ---
 
-## 🔴 Offensive Security Mindset
-
-```txt
-1. Entender o alvo
-2. Mapear a superfície de ataque
-3. Enumerar com precisão
-4. Identificar falhas reais
-5. Explorar de forma controlada
-6. Escalar privilégios
-7. Coletar evidências
-8. Documentar o impacto
-9. Recomendar correções
-```
-
----
-
-## 🚀 Repositórios em destaque
-
-### 🔴 Offensive Security Labs
-
-Anotações, comandos, metodologia e writeups de laboratórios voltados para segurança ofensiva, pentest e Red Team.
-
-**Tópicos:**  
-`recon` • `enumeration` • `exploitation` • `privilege-escalation` • `post-exploitation` • `reporting`
-
----
-
-### 🕸️ Web Pentest Notes
-
-Estudos e práticas sobre vulnerabilidades web, com foco em exploração manual e análise de falhas comuns em aplicações.
-
-**Tópicos:**  
-`owasp-top-10` • `burp-suite` • `sql-injection` • `xss` • `idor` • `file-upload` • `authentication-bypass`
-
----
-
-### ⚙️ Recon Automation Toolkit
-
-Scripts para automatizar etapas de reconhecimento, enumeração e organização de resultados em pentests autorizados.
-
-**Tópicos:**  
-`python` • `bash` • `nmap` • `recon` • `automation` • `pentest`
-
----
-
-### 🖥️ Privilege Escalation Cheatsheets
-
-Checklists e anotações para estudo de escalação de privilégios em Linux e Windows.
-
-**Tópicos:**  
-`linux-privesc` • `windows-privesc` • `misconfigurations` • `permissions` • `services`
-
----
-
-## 📚 Áreas de estudo
-
-```txt
-Security Studies
-├── Red Team
-├── Pentest Web
-├── Segurança em Redes
-├── Active Directory
-├── Linux Internals
-├── Windows Security
-├── Cloud Security
-├── Exploit Development Basics
-├── Secure Coding
-└── Technical Reporting
-```
-
----
-
-## 🧾 Documentação e metodologia
-
-Além da parte prática, também foco em construir documentação técnica clara, organizada e útil.
-
-Meus estudos seguem uma estrutura baseada em:
-
-- Objetivo do teste
-- Escopo do ambiente
-- Reconhecimento
-- Enumeração
-- Evidências encontradas
-- Exploração controlada
-- Impacto técnico
-- Mitigação recomendada
-- Lições aprendidas
-
----
-
-## 📌 GitHub Focus
-
-```txt
-GitHub Portfolio
-├── Labs e Writeups
-│   ├── Hack The Box
-│   ├── TryHackMe
-│   └── PortSwigger Academy
-│
-├── Segurança ofensiva
-│   ├── Reconhecimento
-│   ├── Enumeração
-│   ├── Exploração
-│   └── Privilege Escalation
-│
-├── Automação
-│   ├── Python
-│   ├── Bash
-│   └── PowerShell
-│
-└── Documentação
-    ├── Cheatsheets
-    ├── Metodologias
-    └── Relatórios técnicos
-```
-
----
-
-## 📫 Contato
+## Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-gomes-almeida">
-    <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Gomes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Gomes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:ggoalmeidaa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ggoalmeidaa%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/GabrielGomesAL">
-    <img src="https://img.shields.io/badge/GitHub-GabrielGomesAL-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-ggoalmeidaa%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
----
-
 <p align="center">
-  <b>Security is not about breaking systems. It is about understanding them deeply enough to protect them better.</b>
+  <b>Security research with evidence, responsibility and clear communication.</b>
 </p>
