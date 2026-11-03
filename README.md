@@ -26,6 +26,16 @@
 
 ---
 
+## Projeto open source em destaque
+
+**[evidence-scrub](https://github.com/GabrielGomesAL/evidence-scrub)** — CLI em Node.js que ajuda a remover credenciais, corpos de mensagens e dados de URLs de capturas HAR e HTTP, gerando um pacote de evidências para revisão e um rascunho de relatório.
+
+Processamento local por padrão, sem dependências de pacotes. Inclui exemplos sintéticos, testes automatizados, documentação em inglês e português e uma integração opcional com a API pública do GitHub para registrar a versão do projeto analisado.
+
+[Ver o código](https://github.com/GabrielGomesAL/evidence-scrub) · [Explorar o exemplo completo](https://github.com/GabrielGomesAL/evidence-scrub/blob/main/docs/example-bundle/report.md)
+
+---
+
 ## Sobre mim
 
 Sou formado em **Análise e Desenvolvimento de Sistemas** e direciono minha carreira para **Cybersecurity**, com foco em pesquisa de vulnerabilidades, segurança de aplicações e segurança ofensiva.
